@@ -6,7 +6,7 @@ import org.springframework.web.bind.annotation.GetMapping;
 
 
 @RestController
-public class samplecontrollers {
+public class SampleController {
 
 //http://localhost:8080/hello-world
     @GetMapping("/hello-world")
